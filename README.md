@@ -6,7 +6,7 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor focado em tecnologias
 
 ## 🔍 Sobre mim
 
-- 💼 Desenvolvedor Web com foco em *JavaScript, **HTML* e *CSS*.
+- 💼 Desenvolvedor Web com foco em JavaScript, HTML e CSS.
 - 🎯 Sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias.
 - 🌱 Atualmente explorando mais sobre *React* e *Node.js*.
 
