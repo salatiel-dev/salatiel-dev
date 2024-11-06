@@ -38,7 +38,12 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou um desenvolvedor focado em tecnologias
 ## 🌐 Vamos nos Conectar
 
 <div style="display: flex; gap: 10px; justify-content: center; align-items: center;">
-  <a href="https://linkedin.com/in/seu-perfil-linkedin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:seu-email@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/salatiel-barros-58bb65336" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:salatielbarros2000@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 </div>
+
  
