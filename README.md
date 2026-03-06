@@ -1,6 +1,6 @@
 
 # 👋 Olá, eu sou o **Salatiel Barros**
-### Front-End Developer
+### Desenvolvedor Full Stack
 
 Sou apaixonado por transformar ideias em **interfaces bonitas, rápidas e intuitivas**.  
 Meu foco é criar aplicações organizadas, responsivas e com **boa experiência para o usuário**, sempre aplicando **boas práticas de código**.
