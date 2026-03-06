@@ -1,38 +1,66 @@
 
-# 👋 Olá, eu sou o **Salatiel Barros**
-### Desenvolvedor Full Stack
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=28A745&center=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Salatiel+Barros;Desenvolvedor+Full+Stack;Apaixonado+por+C%C3%B3digo+e+Design" alt="Typing SVG" />
+</div>
 
-Sou apaixonado por transformar ideias em **interfaces bonitas, rápidas e intuitivas**.  
-Meu foco é criar aplicações organizadas, responsivas e com **boa experiência para o usuário**, sempre aplicando **boas práticas de código**.
+<div align="center">
+  <h3>🚀 Transformando ideias em soluções digitais completas</h3>
+  <p>Foco em performance, responsividade e experiência do usuário.</p>
+</div>
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Arsenal Tecnológico
 
-<div style="display: flex; gap: 12px; flex-wrap: wrap; justify-content: flex-start; align-items: center;">
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/>
-  <img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode"/>
+### 🎨 Frontend
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: flex-start; align-items: center;">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React"/>
+</div>
+
+### ⚙️ Backend & Banco de Dados
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: flex-start; align-items: center;">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="NodeJS"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" title="Prisma"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL"/>
+</div>
+
+### 🧰 Ferramentas & DevOps
+<div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: flex-start; align-items: center;">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VSCode"/>
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" title="DBeaver"/>
 </div>
 
 ---
 
 ## 🧠 Sobre Mim
-- 🖥️ Desenvolvedor Front-End focado em **performance e responsividade**  
-- 🎨 Fã de boas interfaces, **animações e UX amigável**  
-- 🔥 Sempre aprendendo algo novo: CSS avançado, JS moderno, acessibilidade  
-- 🤝 Gosto de **colaborar, revisar código e trocar conhecimento**
+> "Sempre em busca do próximo nível."
+
+- 🖥️ **Full Stack em construção**: Unindo a beleza do Front com a potência do Back.
+- 🎨 **UX/UI Enthusiast**: Interfaces limpas e animações fluidas são minha marca.
+- 🔥 **Learner**: Estudando arquitetura de software, Docker e boas práticas.
+- 🤝 **Team Player**: Código revisado e conhecimento compartilhado valem ouro.
 
 ---
 
 ## 📚 Tecnologias que estou estudando e aprimorando
 
-Atualmente estou focado em **elevar meu nível em front-end moderno**, explorando tecnologias atuais para construir aplicações **robustas, escaláveis e performáticas**:
+Atualmente estou focado em **me tornar um desenvolvedor Full Stack completo**, explorando tecnologias de back-end e infraestrutura para construir aplicações **robustas, escaláveis e performáticas**:
+
+### 🛠️ Backend & Banco de Dados
+- **Node.js & Express**: Criação de APIs RESTful e servidores escaláveis
+- **Prisma**: ORM moderno para manipulação eficiente de bancos de dados
+- **SQL (PostgreSQL)**: Modelagem e consulta de dados relacionais
+- **Docker**: Containerização para ambientes de desenvolvimento consistentes
+- **DBeaver**: Gerenciamento e visualização de bancos de dados
+- **Protocolo HTTP**: Entendimento profundo de requisições, respostas e status codes
 
 ### ⚛️ React
 - Criação de **componentes reutilizáveis e modulares**  
