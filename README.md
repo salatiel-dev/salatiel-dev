@@ -113,9 +113,8 @@ Atualmente estou focado em **me tornar um desenvolvedor Full Stack completo**, e
 ---
 
 ## 📊 GitHub Stats
-<div align="center" style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
-  <img height="160em" src="https://readme-stats.clckblog.space/api?username=salatiel-dev&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://readme-stats.clckblog.space/api/top-langs/?username=salatiel-dev&layout=compact&theme=tokyonight"/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salatiel-dev&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
 ---
