@@ -114,8 +114,8 @@ Atualmente estou focado em **me tornar um desenvolvedor Full Stack completo**, e
 
 ## 📊 GitHub Stats
 <div align="center" style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=salatiel-dev&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salatiel-dev&layout=compact&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=salatiel-dev&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=salatiel-dev&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
