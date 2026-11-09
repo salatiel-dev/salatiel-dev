@@ -29,7 +29,7 @@ Foco em **performance**, **responsividade** e **experiência do usuário**.
 | | |
 | :-: | --- |
 | 🎓 | **Formação:** cursando **Ciência da Computação** na **Universidade Cruzeiro do Sul**. |
-| 🖥️ | **Full Stack em construção:** unindo a beleza do front-end com a potência do back-end. |
+| 🖥️ | **Desenvolvedor Full Stack:** unindo a beleza do front-end com a potência do back-end. |
 | 🎨 | **Entusiasta de UX/UI:** interfaces limpas e animações fluidas são a minha marca. |
 | 🔥 | **Aprendizado contínuo:** estudando arquitetura de software, Docker e boas práticas. |
 | 🤝 | **Trabalho em equipe:** código revisado e conhecimento compartilhado valem ouro. |
@@ -48,7 +48,7 @@ Foco em **performance**, **responsividade** e **experiência do usuário**.
 
 ## 📚 Em evolução
 
-Meu foco atual é **me tornar um desenvolvedor Full Stack completo**, explorando back-end e infraestrutura para construir aplicações **robustas, escaláveis e performáticas**.
+Como **desenvolvedor Full Stack**, meu foco atual é aprofundar back-end e infraestrutura para construir aplicações **robustas, escaláveis e performáticas**.
 
 | Área | O que estou praticando |
 | --- | --- |
