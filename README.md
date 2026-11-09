@@ -108,8 +108,6 @@ Como **desenvolvedor Full Stack**, meu foco atual é aprofundar back-end, infrae
 | --- | --- | --- | --- |
 | 🌐 **Landing Page — Suporte Técnico Planaltina** | Página moderna, responsiva (*mobile-first*) e interativa, com SEO via Schema.org e Open Graph. | HTML5 · CSS3 · JavaScript | [Repositório](https://github.com/salatiel-dev/suporte-tecnico-planaltina) · [Demo](https://salatiel-dev.github.io/suporte-tecnico-planaltina/) |
 | 💼 **Portfólio Pessoal** | Apresentação profissional com animações modernas. | HTML5 · CSS3 · JavaScript | [Repositório](https://github.com/salatiel-dev/portfolio-2026) · [Demo](https://salatiel-dev.github.io/portfolio-2026/) |
-| 🎨 **Gerador de Cores HEX** | Ferramenta simples e prática para designers e devs. | — | *Em breve* |
-| 🖼️ **Galeria Dinâmica** | Imagens com transições e efeitos visuais modernos. | — | *Em breve* |
 
 ---
 
