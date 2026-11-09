@@ -48,10 +48,11 @@ Foco em **performance**, **responsividade** e **experiência do usuário**.
 
 ## 📚 Em evolução
 
-Como **desenvolvedor Full Stack**, meu foco atual é aprofundar back-end e infraestrutura para construir aplicações **robustas, escaláveis e performáticas**.
+Como **desenvolvedor Full Stack**, meu foco atual é aprofundar back-end, infraestrutura e **programação com IA** para construir aplicações **robustas, escaláveis e performáticas**.
 
 | Área | O que estou praticando |
 | --- | --- |
+| 🤖 **Programação com IA** | Assistentes de IA no dia a dia do desenvolvimento: gerar, revisar e refatorar código com mais produtividade |
 | 🛠️ **Node.js e Express** | Criação de APIs RESTful e servidores escaláveis |
 | 🔷 **Prisma** | ORM moderno para manipular bancos de dados com eficiência |
 | 🐘 **SQL (PostgreSQL)** | Modelagem e consulta de dados relacionais |
