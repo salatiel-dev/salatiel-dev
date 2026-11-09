@@ -29,7 +29,7 @@ Foco em **performance**, **responsividade** e **experiência do usuário**.
 | | |
 | :-: | --- |
 | 🎓 | **Formação:** cursando **Ciência da Computação** na **Universidade Cruzeiro do Sul**. |
-| 🖥️ | **Desenvolvedor Full Stack:** unindo a beleza do front-end com a potência do back-end. |
+| 🖥️ | **Desenvolvedor Full Stack:** atuando no front-end e no back-end, da interface à API e ao banco de dados. |
 | 🎨 | **Entusiasta de UX/UI:** interfaces limpas e animações fluidas são a minha marca. |
 | 🔥 | **Aprendizado contínuo:** estudando arquitetura de software, Docker e boas práticas. |
 | 🤝 | **Trabalho em equipe:** código revisado e conhecimento compartilhado valem ouro. |
@@ -48,7 +48,7 @@ Foco em **performance**, **responsividade** e **experiência do usuário**.
 
 ## 📚 Em evolução
 
-Como **desenvolvedor Full Stack**, meu foco atual é aprofundar back-end, infraestrutura e **programação com IA** para construir aplicações **robustas, escaláveis e performáticas**.
+Atuando no **front-end e no back-end**, meu foco atual é aprofundar infraestrutura e **programação com IA** para construir aplicações **robustas, escaláveis e performáticas**.
 
 | Área | O que estou praticando |
 | --- | --- |
@@ -96,6 +96,7 @@ Como **desenvolvedor Full Stack**, meu foco atual é aprofundar back-end, infrae
 ### 🔥 O que estou fazendo agora
 
 - [x] Criando **interfaces interativas** com React + TypeScript
+- [x] Desenvolvendo **APIs e back-end** com Node.js, Express e PostgreSQL
 - [x] Consumindo e integrando **APIs modernas** em projetos reais
 - [x] Aprimorando **JavaScript moderno** e **CSS avançado**
 - [x] Refatorando códigos para **melhor legibilidade e performance**
