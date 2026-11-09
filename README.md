@@ -115,11 +115,17 @@ Como **desenvolvedor Full Stack**, meu foco atual é aprofundar back-end, infrae
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=salatiel-dev&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições de salatiel-dev" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salatiel-dev&theme=tokyonight" alt="Resumo do perfil e contribuições de salatiel-dev" width="100%" />
 
-<br /><br />
+<br />
 
-<img src="https://ghchart.rshah.org/28A745/salatiel-dev" alt="Gráfico de contribuições de salatiel-dev" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=salatiel-dev&theme=tokyonight" alt="Estatísticas gerais de salatiel-dev" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=salatiel-dev&theme=tokyonight" alt="Linguagens com mais commits de salatiel-dev" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=salatiel-dev&theme=tokyonight" alt="Repositórios por linguagem de salatiel-dev" width="32%" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=salatiel-dev&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="Sequência de contribuições de salatiel-dev" width="70%" />
 
 </div>
 
